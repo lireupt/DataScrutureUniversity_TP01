@@ -1,6 +1,6 @@
 # DataScrutureUniversity_TP01
 
-Project of discipline Computer Graphics, University of ISMAT, Portimão
+Project of discipline Java Data Struct, University of ISMAT, Portimão 2020/2021
 
 The university practice consistes in the development of a design to detect elementary line segments, namely junctions and endpoints, from a set of overlapping lines using Java Data Struct, Stacks and Queues.
 
